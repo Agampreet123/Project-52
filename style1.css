@@ -1,0 +1,17 @@
+.menu{
+    text-align: center;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:#FFFFFF;
+}
+.whjr{
+    font-size: 20px;
+    font-family: serif;
+}
+.sm{
+ display: flex;
+ flex-wrap: wrap;  
+ justify-content: flex-end; 
+}
